@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1 ,
+        "name": "Pacific rim",
+        "tel" : "0364697066" ,
+        "permission" : 1 
+    },
+    {
+        "id": 2 ,
+        "name": "Iron man",
+        "tel" : "0968662144" ,
+        "permission" : 2 
+    },
+    {
+        "id": 3 ,
+        "name": "Flash",
+        "tel" : "0888080008" ,
+        "permission" : 3 
+    },
+    {
+        "id": 4 ,
+        "name": "Thor",
+        "tel" : "04569566695" ,
+        "permission" : 1 
+    },
+    {
+        "id": 5 ,
+        "name": "Captain America",
+        "tel" : "09696969696" ,
+        "permission" : 1 
+    },
+    {
+        "id": 6 ,
+        "name": "Black Window",
+        "tel" : "05872587422" ,
+        "permission" : 2 
+    }
+]
